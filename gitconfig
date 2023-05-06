@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nicole.c.dressler@gmail.com
+	name = Nicole Dressler
